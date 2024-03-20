@@ -4,7 +4,7 @@ services:
     container_name: elk
     image: sebp/elk:761
     ports:
-      - "5601:5601"
-      - "9200:9200"
-      - "5044:5044"
+      - "5601:5601" # FOR KIBANA
+      - "9200:9200" # FOR ELASTIC SEARCH
+      - "5044:5044" # FOR LOGSTASH
     tty: true
