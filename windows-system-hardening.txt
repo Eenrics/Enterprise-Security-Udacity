@@ -1,0 +1,10 @@
+1. OS updates
+2. Local firewall
+3. 3rd party applications update and vulnerabilities
+4. PoLP (principle of least privilage) * local admin * domain user * local user * microsoft account user
+5. documentation for privilaged access, open ports ... 
+6. file shares and permissions
+7. data encryption (full disk encryption)
+8. Anti-virous and Next Gen AV tools
+9. Password and account settings and configurations * password length * history * password characters
+10. data backup
