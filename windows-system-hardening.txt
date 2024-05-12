@@ -8,3 +8,19 @@
 8. Anti-virous and Next Gen AV tools
 9. Password and account settings and configurations * password length * history * password characters
 10. data backup
+
+
+Desktops
+- create groups and assign appropriate level of permissions to the groups
+- use Next-Gen AV
+- check for windows and applications update
+- check for firewall settings
+- backup
+- disk encryption
+
+Laptops
+- full disk encryption
+- multi-factor authentication
+- cable lock
+- privacy film
+- anti-theft software
