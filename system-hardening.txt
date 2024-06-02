@@ -1,0 +1,5 @@
+1. Document 
+2. Patch and Update 
+3. Logging and Monitoring
+4. Network Segmentation and Firewall Rules
+5. Authentication and Authorization (MFA)
